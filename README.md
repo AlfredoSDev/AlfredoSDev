@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AlfredoSDev
-- 🌱 I’m currently learning Java Technolgies
+- 🌱 I’m currently learning Go Technolgies
